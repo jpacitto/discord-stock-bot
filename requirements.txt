@@ -1,0 +1,4 @@
+python-dotenv
+discord.py
+alpha_vantage
+pandas
